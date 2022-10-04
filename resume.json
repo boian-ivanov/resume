@@ -33,7 +33,7 @@
       "startDate": "2020-09-30",
       "endDate": "",
       "highlights": [],
-      "summary": "Development of a fully reusable platform using SvelteKit with Typescript & Node.js, with both Cloudflare workers and hosted on AWS, while using Contentful as the CMS and Tailwind CSS for the frontend. To manage that, we used a monorepo structure with [Turborepo](. Our in-house developed platform would allow for development speed on websites, full re-theming between them and also give full power to our content team to deliver their ideas to our users within minutes. Prior to that, worked on migrating a legacy PHP (LAMP stack) software to a modern solution using Vue.js with Nuxt and a Serverless architecture with Node.js hosted on AWS.",
+      "summary": "Development of a fully reusable platform using SvelteKit with Typescript & Node.js, using Cloudflare workers and hosting on AWS, while using Contentful CMS and Tailwind CSS for the frontend. To manage that, I've championed the move to a monorepo structure via [Turborepo](https://turborepo.org/). Our in-house developed platform would allow for development speed on websites, full re-theming between them and also give full power to our content team to deliver their ideas to our users within minutes. Prior to that, worked on migrating a legacy PHP (LAMP) software to a modern solution using Vue.js with Nuxt and a Serverless architecture with Node.js hosted on AWS.",
       "url": "https://itech.media/",
       "location": "London, United Kingdom"
     },
