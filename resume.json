@@ -1,0 +1,174 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Boian Ivanov",
+    "label": "Senior Full Stack Engineer",
+    "image": "",
+    "email": "boian.ivanov44@gmail.com",
+    "phone": "+447547846493",
+    "url": "https://boian.dev/",
+    "summary": "Senior Full Stack Engineer with experience in modern serverless architectures and traditional client-server workflow. Solid knowledge in front-end frameworks (**Svelte & SvelteKit**, **Vue 3 & Nuxt**), **Typescript & Node.js** user and advocate on everything JAM-stack. Excited around the future of web development.",
+    "location": {
+      "city": "London",
+      "countryCode": "UK",
+      "address": "United Kingdom"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "boian-ivanov",
+        "url": "https://www.linkedin.com/in/boian-ivanov/"
+      },
+      {
+        "network": "GitHub",
+        "username": "boian-ivanov",
+        "url": "https://github.com/boian-ivanov"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "iTech Media",
+      "position": "Senior Full Stack Engineer",
+      "startDate": "2020-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Development on a full reusable platform using SvelteKit with Typescript & Node.js, with Cloudflare workers hosted on AWS, while using Contentful as the CMS and Tailwind CSS for the frontend. Our in-house developed platform would allow for development speed on websites, full re-theming between them and also give full power to our content team to deliver their ideas to our users within minutes. Prior to that, worked on migrating a legacy PHP (LAMP stack) software to a modern solution using Vue.js with Nuxt and a Serverless architecture with Node.js hosted on AWS.",
+      "url": "https://itech.media/",
+      "location": "London, United Kingdom"
+    },
+    {
+      "name": "Zavamed",
+      "position": "Full Stack Developer",
+      "startDate": "2019-05-31",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "Use of modern tech stacks to build the tools that will help our health clinics and doctors be as productive as possible. Working in an Agile (SCRUM) environment we were able to achieve quick development and deployment of much needed features to be used by the wider business. Key technologies used: VueJS, AWS, Serverless, NodeJS, Jenkins, PHP, Kirby, PHPUnit, Buefy, Jest.",
+      "url": "https://www.zavamed.com/",
+      "location": "London, United Kingdom"
+    },
+    {
+      "name": "First Clarity",
+      "position": "Senior Web Developer",
+      "startDate": "2017-11-30",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "summary": "Development and support of company clients’ websites. Redesigned The Telegraph’s Puzzles website from a Flash based to a fully mobile-friendly website. Supporting our in-house created engagement and monetization platform, Evolok (evolok.com). Daily utilizing PHP & ES6 alongside Bootstrap 4.",
+      "url": "https://www.linkedin.com/company/first-clarity/",
+      "location": "London, United Kingdom"
+    },
+    {
+      "name": "SapirShop.com",
+      "position": "Lead Full Stack Developer",
+      "startDate": "2017-03-31",
+      "endDate": "2017-11-30",
+      "highlights": [],
+      "summary": "mprove an outdated e-commerce platform into a leading brand that was avail- able in four countries, adopting OpenCart as the platform of choice. Achieved this by developing modifications, modules and extensions as well as provid- ing active support. Collaborating with successful local companies (Rapido, Econt, Emag, Profitshare, etc.) to integrate their services within our supply chain.",
+      "url": "https://alleop.bg/",
+      "location": "Sofia, Bulgaria"
+    },
+    {
+      "name": "IT STEP Computer Academy",
+      "position": "Computer Science Educator",
+      "startDate": "2016-12-31",
+      "endDate": "2017-03-31",
+      "highlights": [],
+      "summary": "Composing and teaching courses in software education. Courses that were designed and taught by me where: ”HTML & CSS Introduction” and ”Introduction to CMS for Designers (Wordpress & Joomla)”",
+      "url": "https://itstep.bg/",
+      "location": "Sofia, Bulgaria"
+    },
+    {
+      "name": "RS Consult BG",
+      "position": "Web Developer",
+      "startDate": "2016-10-31",
+      "endDate": "2017-02-28",
+      "highlights": [],
+      "summary": "Working on multiple projects based on different PHP frameworks (Laravel & Opencart). Creation of a conference website using WordPress with custom user orientated plugin handling document uploading (Feza2017.org).",
+      "url": "https://rsc.bg/",
+      "location": "Sofia, Bulgaria"
+    },
+    {
+      "name": "ITR Services Ltd.",
+      "position": "Web Development Intern",
+      "startDate": "2016-06-30",
+      "endDate": "2016-08-31",
+      "highlights": [],
+      "summary": "Learning and working with CMS platforms based on PHP (Joomla & WordPress). Magento module development for an ecommerce platform.",
+      "url": "https://www.itrservices.eu/en/",
+      "location": "Bulgaria"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New Bulgarian University",
+      "area": "Informatics",
+      "studyType": "Bachelor's degree",
+      "startDate": "2013-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "1st EPAL Serres, Greece",
+      "area": "Computer Science",
+      "studyType": "Maintenance of computer systems, applications and networks",
+      "startDate": "2011-12-31",
+      "endDate": "2013-12-31",
+      "score": "A",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": ["TypeScript", "Vue.js", "Nuxt.js", "Svelte", "SvelteKit", "React"]
+    },
+    {
+      "name": "Hosting",
+      "level": "",
+      "keywords": ["AWS", "Cloudflare Workers", "Serverless"]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": ["Node.js", "PHP", "Laravel", "MySQL", "PostgreSQL", "Docker"]
+    },
+    {
+      "name": "Monorepo",
+      "level": "",
+      "keywords": ["Turborepo", "Nx", "Workspaces"]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Bilingual Proficiency",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Bulgarian"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Greek"
+    }
+  ],
+  "interests": [
+    { "name": "Open Source" },
+    { "name": "Photography" },
+    { "name": "Traveling" },
+    { "name": "Cooking" },
+    { "name": "Music" }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "theme": "caffeine",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
