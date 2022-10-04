@@ -33,7 +33,7 @@
       "startDate": "2020-09-30",
       "endDate": "",
       "highlights": [],
-      "summary": "Development on a full reusable platform using SvelteKit with Typescript & Node.js, with Cloudflare workers hosted on AWS, while using Contentful as the CMS and Tailwind CSS for the frontend. Our in-house developed platform would allow for development speed on websites, full re-theming between them and also give full power to our content team to deliver their ideas to our users within minutes. Prior to that, worked on migrating a legacy PHP (LAMP stack) software to a modern solution using Vue.js with Nuxt and a Serverless architecture with Node.js hosted on AWS.",
+      "summary": "Development of a fully reusable platform using SvelteKit with Typescript & Node.js, with both Cloudflare workers and hosted on AWS, while using Contentful as the CMS and Tailwind CSS for the frontend. To manage that, we used a monorepo structure with [Turborepo](. Our in-house developed platform would allow for development speed on websites, full re-theming between them and also give full power to our content team to deliver their ideas to our users within minutes. Prior to that, worked on migrating a legacy PHP (LAMP stack) software to a modern solution using Vue.js with Nuxt and a Serverless architecture with Node.js hosted on AWS.",
       "url": "https://itech.media/",
       "location": "London, United Kingdom"
     },
@@ -53,7 +53,7 @@
       "startDate": "2017-11-30",
       "endDate": "2019-05-31",
       "highlights": [],
-      "summary": "Development and support of company clients’ websites. Redesigned The Telegraph’s Puzzles website from a Flash based to a fully mobile-friendly website. Supporting our in-house created engagement and monetization platform, Evolok (evolok.com). Daily utilizing PHP & ES6 alongside Bootstrap 4.",
+      "summary": "Development and support of company clients’ websites. Redesigned The [Telegraph’s Puzzles](https://puzzles.telegraph.co.uk/) website from a Flash based to a fully mobile-friendly website. Supporting our in-house created engagement and monetization platform, Evolok ([evolok.com](https://www.evolok.com/)). Daily utilizing PHP & ES6 alongside Bootstrap 4.",
       "url": "https://www.linkedin.com/company/first-clarity/",
       "location": "London, United Kingdom"
     },
@@ -63,7 +63,7 @@
       "startDate": "2017-03-31",
       "endDate": "2017-11-30",
       "highlights": [],
-      "summary": "mprove an outdated e-commerce platform into a leading brand that was avail- able in four countries, adopting OpenCart as the platform of choice. Achieved this by developing modifications, modules and extensions as well as provid- ing active support. Collaborating with successful local companies (Rapido, Econt, Emag, Profitshare, etc.) to integrate their services within our supply chain.",
+      "summary": "Improve an outdated e-commerce platform into a leading brand that was available in four countries, adopting OpenCart as the platform of choice. Achieved this by developing modifications, modules and extensions as well as providing active support. Collaborating with successful local companies ([Rapido](https://www.rapido.bg/), [Econt](https://www.econt.com/), [Emag](https://www.emag.bg/), [Profitshare](https://bg.profitshare.com/), etc.) to integrate their services within our supply chain.",
       "url": "https://alleop.bg/",
       "location": "Sofia, Bulgaria"
     },
@@ -73,7 +73,7 @@
       "startDate": "2016-12-31",
       "endDate": "2017-03-31",
       "highlights": [],
-      "summary": "Composing and teaching courses in software education. Courses that were designed and taught by me where: ”HTML & CSS Introduction” and ”Introduction to CMS for Designers (Wordpress & Joomla)”",
+      "summary": "Composing and teaching courses in software education. Courses that were designed and taught by me where: ”[HTML & CSS Introduction](https://www.slideshare.net/BoianIvanov/html-introduction-bg)” and ”[Introduction to CMS for Designers (Wordpress & Joomla)](https://www.slideshare.net/BoianIvanov/introduction-to-cms-80147332)”",
       "url": "https://itstep.bg/",
       "location": "Sofia, Bulgaria"
     },
@@ -168,7 +168,7 @@
   "projects": [],
   "meta": {
     "version": "v1.0.0",
-    "theme": "caffeine",
+    "theme": "actual",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
 }

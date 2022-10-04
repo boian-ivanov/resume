@@ -1,6 +1,9 @@
 {
   "name": "cv",
   "version": "1.0.0",
+  "scripts": {
+    "generate": "resume export resume.pdf --theme actual"
+  },
   "dependencies": {
     "jsonresume-theme-actual": "^0.2.1"
   },
