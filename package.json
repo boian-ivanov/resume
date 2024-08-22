@@ -1,13 +1,13 @@
 {
   "name": "cv",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "generate": "resume export resume.pdf --theme actual"
   },
   "dependencies": {
-    "jsonresume-theme-actual": "^0.2.1"
+    "jsonresume-theme-actual": "^0.2.2"
   },
   "devDependencies": {
-    "resume-cli": "^3.0.7"
+    "resume-cli": "^3.1.2"
   }
 }

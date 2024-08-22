@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Boian Ivanov",
-    "label": "Senior Full Stack Engineer",
+    "label": "Senior Software Engineer",
     "image": "",
     "email": "boian.ivanov44@gmail.com",
     "phone": "+447547846493",
     "url": "https://boian.dev/",
-    "summary": "Senior Full Stack Engineer with experience in modern serverless architectures and traditional client-server workflow. Solid knowledge in front-end frameworks (**Svelte & SvelteKit**, **Vue 3 & Nuxt**), **Typescript & Node.js** user and advocate on everything JAM-stack. Excited around the future of web development.",
+    "summary": "Senior Software Engineer with a proven track record in designing and developing robust backend systems and user interfaces. Experienced in utilizing AWS services, Typescript, and a plethora of front-end frameworks to create efficient, scalable, and user-friendly solutions. Proficient in Agile methodologies and collaborating with cross-functional teams to deliver high-quality projects. Excited about the future of web development and eager to contribute to innovative projects.",
     "location": {
       "city": "London",
       "countryCode": "UK",
@@ -28,12 +28,32 @@
   },
   "work": [
     {
+      "name": "Hyper SQ",
+      "position": "Senior Software Engineer",
+      "startDate": "2023-06-05",
+      "endDate": "2024-03-01",
+      "highlights": [],
+      "summary": "Pioneered the software development team in the company, leading the design and implementation of a scalable, real-time tracking platform. Conducted thorough research to select the optimal technology stack, considering business needs, limited staff resources, and security requirements. Evaluated existing prototypes and, working closely with the CEO in alignment with business requirements, architected a robust technology stack. Developed critical features, including user and admin APIs, an administrative tool, and real-time tracking capabilities. Architected a robust solution utilizing Typescript, PostgreSQL, AWS, Lambda, DynamoDB, Terraform, Cognito, Svelte, and Sentry to deliver a high-performance platform.",
+      "url": "https://hyper-sq.com/",
+      "location": "London, United Kingdom"
+    },
+    {
+      "name": "Daily Mail (dmg media)",
+      "position": "Senior Software Engineer",
+      "startDate": "2023-01-04",
+      "endDate": "2023-06-20",
+      "highlights": [],
+      "summary": "Responsible for designing and developing internal tools and backend services using AWS services. Leveraged Typescript to create robust and maintainable code. Collaborated with cross-functional teams to deliver high-quality solutions.",
+      "url": "https://mailplus.co.uk/",
+      "location": "London, United Kingdom"
+    },
+    {
       "name": "iTech Media",
       "position": "Senior Full Stack Engineer",
       "startDate": "2020-09-30",
       "endDate": "2022-10-20",
       "highlights": [],
-      "summary": "Development of a fully reusable platform using SvelteKit with Typescript & Node.js, using Cloudflare workers and hosting on AWS, while using Contentful CMS and Tailwind CSS for the frontend. To manage that, I've championed the move to a monorepo structure via [Turborepo](https://turborepo.org/). Our in-house developed platform would allow for development speed on websites, full re-theming between them and also give full power to our content team to deliver their ideas to our users within minutes. Prior to that, worked on migrating a legacy PHP (LAMP) software to a modern solution using Vue.js with Nuxt and a Serverless architecture with Node.js hosted on AWS.",
+      "summary": "Development of a fully reusable platform using SvelteKit with Typescript & Node.js, using Cloudflare workers and hosted on AWS, while using Contentful CMS and Tailwind CSS for the frontend. To manage that, I've championed the move to a monorepo structure via [Turborepo](https://turborepo.org/). Our in-house developed platform would allow for development speed on websites, full re-theming between them and also give full power to our content team to deliver their ideas to our users within minutes.",
       "url": "https://itech.media/",
       "location": "London, United Kingdom"
     },
@@ -43,7 +63,7 @@
       "startDate": "2019-05-31",
       "endDate": "2020-07-31",
       "highlights": [],
-      "summary": "Use of modern tech stacks to build the tools that will help our health clinics and doctors be as productive as possible. Working in an Agile (SCRUM) environment we were able to achieve quick development and deployment of much needed features to be used by the wider business. Key technologies used: VueJS, AWS, Serverless, NodeJS, Jenkins, PHP, Kirby, PHPUnit, Buefy, Jest.",
+      "summary": "Use of modern tech stacks to build the tools that will help our health clinics and doctors be as productive as possible. Working in an Agile environment we were able to achieve quick development and deployment of much needed features to be used by the wider business. Key technologies used: VueJS, AWS, Serverless, NodeJS, Jenkins, PHP, Kirby, PHPUnit, Buefy, Jest.",
       "url": "https://www.zavamed.com/",
       "location": "London, United Kingdom"
     },
@@ -53,7 +73,7 @@
       "startDate": "2017-11-30",
       "endDate": "2019-05-31",
       "highlights": [],
-      "summary": "Development and support of company clients’ websites. Redesigned The [Telegraph’s Puzzles](https://puzzles.telegraph.co.uk/) website from a Flash based to a fully mobile-friendly website. Supporting our in-house created engagement and monetisation platform, Evolok ([evolok.com](https://www.evolok.com/)). Daily utilising PHP & ES6 alongside Bootstrap 4.",
+      "summary": "Development and support of company clients’ websites. Redesigned The [Telegraph’s Puzzles](https://puzzles.telegraph.co.uk/) website from a Flash based to a fully mobile-friendly website. Supporting our in-house created engagement and monetisation platform, Evolok ([evolok.com](https://www.evolok.com/)).",
       "url": "https://www.linkedin.com/company/first-clarity/",
       "location": "London, United Kingdom"
     },
@@ -63,7 +83,7 @@
       "startDate": "2017-03-31",
       "endDate": "2017-11-30",
       "highlights": [],
-      "summary": "Improve an outdated e-commerce platform into a leading brand that was available in four countries, adopting OpenCart as the platform of choice. Achieved this by developing modifications, modules and extensions as well as providing active support. Collaborating with successful local companies ([Rapido](https://www.rapido.bg/), [Econt](https://www.econt.com/), [Emag](https://www.emag.bg/), [Profitshare](https://bg.profitshare.com/), etc.) to integrate their services within our supply chain.",
+      "summary": "Improve an outdated e-commerce platform into a leading brand that was available in four countries, adopting OpenCart as the platform of choice. Collaborating with successful local companies ([Rapido](https://www.rapido.bg/), [Econt](https://www.econt.com/), [Emag](https://www.emag.bg/), [Profitshare](https://bg.profitshare.com/), etc.).",
       "url": "https://alleop.bg/",
       "location": "Sofia, Bulgaria"
     },
@@ -83,7 +103,7 @@
       "startDate": "2016-10-31",
       "endDate": "2017-02-28",
       "highlights": [],
-      "summary": "Working on multiple projects based on different PHP frameworks (Laravel & Opencart). Creation of a conference website using WordPress with custom user orientated plugin handling document uploading (Feza2017.org).",
+      "summary": "Working on multiple projects based on different PHP frameworks (Laravel & Opencart). Creation of a conference website using WordPress (Feza2017.org).",
       "url": "https://rsc.bg/",
       "location": "Sofia, Bulgaria"
     },
@@ -92,8 +112,6 @@
       "position": "Web Development Intern",
       "startDate": "2016-06-30",
       "endDate": "2016-08-31",
-      "highlights": [],
-      "summary": "Learning and working with CMS platforms based on PHP (Joomla & WordPress). Magento module development for an e-commerce platform.",
       "url": "https://www.itrservices.eu/en/",
       "location": "Bulgaria"
     }
@@ -123,24 +141,19 @@
   "publications": [],
   "skills": [
     {
-      "name": "JavaScript",
+      "name": "Front-End",
       "level": "",
-      "keywords": ["TypeScript", "Vue.js", "Nuxt.js", "Svelte", "SvelteKit", "React"]
-    },
-    {
-      "name": "Hosting",
-      "level": "",
-      "keywords": ["AWS", "Cloudflare Workers", "Serverless"]
+      "keywords": ["TypeScript", "Svelte", "SvelteKit", "Vue.js", "Nuxt.js", "React"]
     },
     {
       "name": "Backend",
       "level": "",
-      "keywords": ["Node.js", "PHP", "Laravel", "MySQL", "PostgreSQL", "Docker"]
+      "keywords": ["Node.js", "PostgreSQL", "AWS", "Docker"]
     },
     {
-      "name": "Monorepo",
+      "name": "Infrastructure",
       "level": "",
-      "keywords": ["Turborepo", "Nx", "Workspaces"]
+      "keywords": ["AWS", "Serverless", "Cloudflare Workers", "Terraform", "CDK", "SST"]
     }
   ],
   "languages": [
@@ -160,7 +173,7 @@
   "interests": [
     { "name": "Open Source" },
     { "name": "Photography" },
-    { "name": "Traveling" },
+    { "name": "Travelling" },
     { "name": "Cooking" },
     { "name": "Music" }
   ],
